@@ -1,6 +1,6 @@
 # SQA-SSH Dashboard
 
-A modern web application for managing software quality assurance testing and SSH connections. Built with Next.js 13+, React, TypeScript, and Tailwind CSS.
+A modern web application for managing software quality assurance testing and SSH connections. Built with Next.js 13+, React, TypeScript, and Tailwind CSS..
 
 ## Features
 
